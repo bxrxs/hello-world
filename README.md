@@ -2,5 +2,5 @@
 
 Mon slogan ici !
 
-mon message d'acuueil là.
+mon message d'accueil là.
 
